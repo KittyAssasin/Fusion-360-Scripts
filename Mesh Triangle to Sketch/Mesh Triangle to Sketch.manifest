@@ -1,0 +1,12 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"script",
+	"author":	"KittyAssasin",
+	"description":	{
+		"":	"Converts mesh triangle to sketch"
+	},
+	"version":	"1.0",
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"iconFilename":	"MeshTriangleSelectionIcon.png"
+}
